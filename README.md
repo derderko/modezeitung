@@ -1,1 +1,4 @@
 # modezeitung
+
+
+my first commit
